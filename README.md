@@ -18,7 +18,7 @@
 - **Game:** _Genshin Impact_ 💫
 - Enjoy watching anime and playing games in my free time
 
-### ✨ Fun Fact
+### ✨ Interesting Fact
 
 > "Diamonds don't shine, they reflect light."
 
