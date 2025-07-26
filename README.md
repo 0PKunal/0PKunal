@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- Currently pursuing a degree in **Physics**
+- Currently pursuing a Bachelor degree in **Physics**
 - Exploring the world of programming, focusing on **Python** and **C** to support my studies
 - Always eager to learn new tech and build interesting projects
 
