@@ -2,6 +2,7 @@
 
 ### 🎓 Physics Student & Aspiring Programmer
 
+
 ## 🚀 Introduction
 I’m a **Physics** student, studying about programming and building meaningful projects. I’m currently focusing on **Python** and **C**, exploring physics simulations, studying data structures and algorithms.
 
@@ -9,6 +10,7 @@ My goals:
 - Build meaningful, well-documented projects
 - Contribute to open source
 - Grow as a data-focused physicist
+
 
 ## 💻 Skills
 
@@ -21,8 +23,8 @@ My goals:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Areas of Interest
 - Physics simulations
@@ -32,6 +34,7 @@ My goals:
 
 ## 🧩 Projects
 - Feel free to explore my repositories for simulations, ML experiments, and algorithm practice.
+
 
 ## 🤝 Contributing
 - Issues and pull requests are welcome. If you see something to improve, open an issue with context or submit a PR.
@@ -75,4 +78,3 @@ ___
 Thanks for visiting my profile! Let’s connect and learn together. 🌱
 
 </div>
-
