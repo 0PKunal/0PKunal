@@ -47,11 +47,10 @@ My goals:
 
 </div>
 
-
 ## 📫 Contact
 You can reach me here:
 
-<a href="mailto:kunaldas1908%2BGH@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:kunaldas1908+GH@gmail.com" target="_blank" rel="noopener noreferrer">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://x.com/_0_0_KunaL" target="_blank" rel="noopener noreferrer">
