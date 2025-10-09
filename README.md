@@ -1,75 +1,81 @@
 # Hi there, I'm Kunal! 👋
 
 ### 🎓 Physics Student & Aspiring Programmer
-📍 **Location:** Siliguri, West Bengal, India
-
----
 
 ## 🚀 Introduction
+I’m a **Physics** student, studying about programming and building meaningful projects. I’m currently focusing on **Python** and **C**, exploring physics simulations, studying data structures and algorithms.
 
-I'm a **Physics student** passionate about programming and building meaningful projects. Currently focusing on **Python**, **C**, and exploring the world of **data structures & algorithms** and **open source** contributions.
-
-**My Goals:** Build meaningful projects, contribute to open source, grow as a software developer
-
----
+My goals:
+- Build meaningful, well-documented projects
+- Contribute to open source
+- Grow as a data-focused physicist
 
 ## 💻 Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Areas of Interest
-- 🤖 Machine Learning
-- 🌐 Web Development
-- 📊 Algorithms
+- Physics simulations
+- Machine learning
+- Algorithms and data structures
+
+
+## 🧩 Projects
+- Feel free to explore my repositories for simulations, ML experiments, and algorithm practice.
+
+## 🤝 Contributing
+- Issues and pull requests are welcome. If you see something to improve, open an issue with context or submit a PR.
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub & Coding Activity
+<div align="center">
+  
+![Kunal GitHub Stats](https://github-readme-stats.vercel.app/api?username=0PKunal&show_icons=true&theme=radical)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0PKunal&layout=compact&theme=radical)
 
-### 📌 Project A
-**Description:** Short description of what it does  
-**Technologies:** Python, Flask, SQL  
-**Link:** [View Project](https://github.com/0PKunal/project-a)  
-![Screenshot](assets/project-a.png)
+</div>
 
-### 📌 Project B
-**Description:** Short description of another project  
-**Technologies:** C, SDL2  
-**Link:** [View Project](https://github.com/0PKunal/project-b)
-
----
 
 ## 📫 Contact
+You can reach me here:
 
-Feel free to reach out to me through any of these platforms:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
----
-
-## 🎉 Fun Fact
-
-> I once made a LED cube controlled by Python 💡🐍
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunaldas1908+GH@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_0_0_KunaL)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@_0_0_kunal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_0_0_kunal/)
 
 ---
 
-## 🎮 Interests
-
-- **Anime:** _That Time I Got Reincarnated as a Slime_ 🍜
-- **Gaming:** _Genshin Impact_ 💫
+## 🎮 Outside Coding & Studies
+When I’m not coding or studying, you’ll usually find me:
+- Watching anime (favourite one *That Time I Got Reincarnated as a Slime* 🍜)
+- Playing games (mainly *Genshin Impact* 💫)
 
 ---
 
-Thanks for visiting my profile! Let's connect and learn together. 🌱
+### ✨ Fun Fact
+> "Diamonds don’t shine, they reflect light." 💡
+
+
+## 📝 License
+Unless noted otherwise, repositories are MIT-licensed. See each repository’s LICENSE file.
+
+___
+<div align="center">
+
+Thanks for visiting my profile! Let’s connect and learn together. 🌱
+
+</div>
+
