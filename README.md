@@ -51,10 +51,18 @@ My goals:
 ## 📫 Contact
 You can reach me here:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunaldas1908+GH@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_0_0_KunaL)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@_0_0_kunal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_0_0_kunal/)
+<a href="mailto:kunaldas1908%2BGH@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://x.com/_0_0_KunaL" target="_blank" rel="noopener noreferrer">
+  <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+<a href="https://www.threads.net/@_0_0_kunal" target="_blank" rel="noopener noreferrer">
+  <img alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
+</a>
+<a href="https://www.instagram.com/_0_0_kunal/" target="_blank" rel="noopener noreferrer">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 ---
 
