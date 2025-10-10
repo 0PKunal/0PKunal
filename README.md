@@ -1,20 +1,19 @@
 <div align="center">
-
-<table>
-  <tr>
-    <td align="left" width="120">
-      <img src="https://media.tenor.com/O8fIA9SyBPwAAAAi/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E3%83%98%E3%83%AB%E3%82%BF.gif" width="120">
-    </td>
-    <td align="center">
-      <h1>Hi there, I'm Kunal! 👋</h1>
-    </td>
-    <td align="right" width="120">
-      <img src="https://media.tenor.com/qdtlBF7q2b8AAAAi/evernight-march-7th.gif" width="120">
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="left" width="120">
+        <img src="assets/kuru_kuru-ezgif.png" width="120">
+      </td>
+      <td align="center">
+        <h1>Hi there, I'm Kunal! 👋</h1>
+      </td>
+      <td align="right" width="120">
+        <img src="assets/evernight-march-7th-ezgif.png" width="120">
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ### 🎓 Physics Student & Aspiring Programmer
