@@ -7,7 +7,7 @@
 I’m a **Physics** student, studying about programming and building meaningful projects. I’m currently focusing on **Python** and **C**, exploring physics simulations, studying data structures and algorithms.
 
 My goals:
-- Build meaningful, well-documented projects
+- Build meaningful, fun projects
 - Contribute to open source
 - Grow as a data-focused physicist
 
