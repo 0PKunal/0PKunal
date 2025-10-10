@@ -4,7 +4,7 @@
 
 
 ## 🚀 Introduction
-I’m a **Physics** student, studying about programming and building meaningful projects. I’m currently focusing on **Python** and **C**, exploring physics simulations, studying data structures and algorithms.
+I’m a **Physics** student, studying about programming and building fun but meaningful projects. I’m currently focusing on **Python** and **C**, exploring physics simulations, studying data structures and algorithms.
 
 My goals:
 - Build meaningful, fun projects
